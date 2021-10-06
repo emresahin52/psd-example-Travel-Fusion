@@ -1,0 +1,216 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color:#837c7c;
+}
+.page-section{
+    height: 30%;
+}
+.navbar{
+    font-weight: 100;
+    font-size: small;
+}
+.nav-li{
+    float: right;
+}
+.back{
+    background-color: #b2b2b2;
+}
+.back a{
+    color: white;
+}
+.back .brand{
+    color: white;
+    font-size: 80px
+}
+.back .subbrand{
+    color: white;
+    font-size: 20px;
+}
+.back .btn-primary{
+    background-color:#fbad27 ;
+    border-radius:24%;
+    border: none;
+}
+header{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.foot .far{
+    color: white;
+    font-size: 50px;
+    margin: 5%;
+}
+.main-head{
+    font-size: 45px;
+    text-align: center;
+}
+.main-p{
+    margin-top: 8%;
+    text-align: justify;
+    color: #919191;
+}
+.row{
+    width: 100%;
+}
+.cards{
+    align-items: center;
+    justify-content: space-between;
+}
+.card{
+    border: 2px solid peachpuff;
+    margin-top: 10%;
+    border-radius: 70%;
+    width: 25%;
+    height: 45%;
+    background-color:#f6dbdb;
+
+}
+.card .fas{
+    margin-top: 4%;
+    color:#fbad27;
+    font-size: 50px;
+    margin-left: 4%;
+}
+.card-head{
+    align-self: center;
+    justify-content: center;
+    margin-top: 8%;
+    padding-left: 2%;
+}
+.card-text{
+    align-self: center;
+    justify-content: center;
+    margin-top: 1%;
+    text-align: center;
+    padding-bottom: 15%;
+}
+.most-text{
+    text-align: center;
+    font-size: large;
+    color: #919191;
+}
+.wrapper{
+    display: grid;
+}
+.wrapper .btn{
+    margin-top: 4%;
+    font-size: xx-large;
+    color: #919191;
+}
+.squarder{
+    margin-top: 4%;
+    background-color:#b2b2b2 ;
+    width: 32%;
+    height: 400px;
+    margin-bottom: 4%;
+}
+.squarder-body{
+    justify-content: space-between;
+}
+.squarder-img{
+    z-index: 0;
+    position: relative;
+    width: 100%;
+}
+.sq-p{    
+    position: absolute;
+    padding-top:20px;
+    font-size: x-large;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+    z-index: 1;
+    width: 15%;
+}
+.row{
+    float: left;
+}
+.row-2{
+    float: right;
+}
+.sub-cards{
+    width: 50%;
+}
+.sub-cards-1{
+   height: fit-content;
+}
+.sub-cards-title{
+    padding: 15px;
+    justify-content:center;
+}
+.sub-cards-text{
+    padding: 15px;
+    justify-content:center ;
+}
+.sub-cards-2{
+    margin-top: 15%;
+}
+.sub-cards-3{
+    margin-top: 20%;
+}
+.card{
+    margin-top: 20%;
+    border: none;
+}
+.img-fluid-1{
+    max-width: 100%;
+    height: 100%;
+    background-color: gray;
+}
+.card .card-head-1{
+    border: 0px solid;
+    padding-top:15% ;
+}
+.title-1{
+    float: left;
+}
+.img-1{
+    float: right;
+}
+.img-card-subcard{
+    float: left;
+}
+.sub-cards-text-1{
+    margin-left: 15px;
+    float: right;
+}
+.subcard-p{
+    margin-left: 15px;
+}
+.special-discount{
+    width: 100%;
+    height: auto;
+    background-color:#fbad27 ;
+    color: #fff;
+}
+.special-text{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: xx-large;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    padding: 20px 0;
+}
+.special-a{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: xx-large;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+.foot-contact{
+    justify-content: space-between;
+
+}
+.foot-nav a{
+    color: black;
+    text-decoration: none;
+}
+h4{
+    margin-top: 40px;
+}
